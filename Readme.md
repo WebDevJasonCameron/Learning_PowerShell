@@ -1,8 +1,16 @@
 # Readme
 
+## 2022 10 11 | PS1 Not Liking
+
+I know PS1 is suppose to be amazing for Win users.  I don't like it.  It isn't a language to me.  It feels really exclusionary.  I also know, I need to understand this programming odity to fix some really fustrating things within the networks.  Going home to learn this is far from fun.  I'd rather be building some stuff with python, java or almost anything else.  I guess that's why I know this is probably the right thing to do.  I don't want to be doing it, LOL.  
+
+---
+
 ## 2022 10 10 | Work time
 
 Most of the work in this will be done during work.  As such, I won't be able to send my stuff to Git
+
+---
 
 ## 2022 10 07 | 2nd Day
 
