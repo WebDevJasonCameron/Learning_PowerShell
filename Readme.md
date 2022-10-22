@@ -1,5 +1,11 @@
 # Readme
 
+## 2022 10 22 | Weekend
+
+It's nice to get some of this done before.  we get started working.
+
+---
+
 ## 2022 10 21 | Continue
 
 I completed more work on vars.  The main purpose of the challenge was to grab user inputs, grab the date, and then use those inputs to create the actual file name.  This was incredible.  It also was stuff they didn't teach.  The main focus in all the Udemy training is to look up everything through the `Get-Help` function.
