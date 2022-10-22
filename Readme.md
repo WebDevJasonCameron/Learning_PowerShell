@@ -1,5 +1,11 @@
 # Readme
 
+## 2022 10 21 | Continue
+
+I completed more work on vars.  The main purpose of the challenge was to grab user inputs, grab the date, and then use those inputs to create the actual file name.  This was incredible.  It also was stuff they didn't teach.  The main focus in all the Udemy training is to look up everything through the `Get-Help` function.
+
+---
+
 ## 2022 10 11 | PS1 Not Liking
 
 I know PS1 is suppose to be amazing for Win users.  I don't like it.  It isn't a language to me.  It feels really exclusionary.  I also know, I need to understand this programming odity to fix some really fustrating things within the networks.  Going home to learn this is far from fun.  I'd rather be building some stuff with python, java or almost anything else.  I guess that's why I know this is probably the right thing to do.  I don't want to be doing it, LOL.  
